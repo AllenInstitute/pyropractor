@@ -21,7 +21,7 @@ with open('requirements.txt', 'r') as f:
 
 if __name__ == "__main__":
     setup(
-        name="patchseq_autotrace",
+        name="pyropractor",
         version=get_version("pyropractor/__init__.py"),
         author='Matt Mallory',
         author_email="matt.mallory@alleninstitute.org",
